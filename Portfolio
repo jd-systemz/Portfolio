@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -394,7 +395,7 @@
         <h3>Inventory Scanner</h3>
         <p>A tool for tracking inventory counts, echoing the custom tracking infrastructure I built at Awards Central for sales leads and project calendars.</p>
         <div class="tag-row"><span class="tag">HTML/CSS/JS</span><span class="tag">Apps Script</span></div>
-        <a href="https://jd-systemz.github.io/inventory-scanner/" target="_blank" rel="noopener">Visit site ↗</a>
+        <a href="https://jd-systemz.github.io/Inventory/" target="_blank" rel="noopener">Visit site ↗</a>
       </div>
       <div class="project-card">
         <h3>Internal Announcement Site</h3>
